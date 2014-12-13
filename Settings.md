@@ -36,3 +36,15 @@ Mod Id| Mod Name | Mod Uri
 `302238675`|More Powerful Spotlight|[http://steamcommunity.com/sharedfiles/filedetails/?id=302238675](http://steamcommunity.com/sharedfiles/filedetails/?id=302238675)
 `337539313`|NASA Blocks Mod|[http://steamcommunity.com/sharedfiles/filedetails/?id=337539313](http://steamcommunity.com/sharedfiles/filedetails/?id=337539313)
 `317272401`|No Camera Overlay|[http://steamcommunity.com/sharedfiles/filedetails/?id=317272401](http://steamcommunity.com/sharedfiles/filedetails/?id=317272401)
+
+###New mods from 13.12.2014
+Mod Id| Mod Name | Mod Uri
+:------|:----------:|:--------
+`353255179`|Exhumer Machina (Less cheating large drill|[http://steamcommunity.com/sharedfiles/filedetails/?id=353255179](http://steamcommunity.com/sharedfiles/filedetails/?id=353255179)
+`305551761`|Offset Door & Small Doors|[http://steamcommunity.com/sharedfiles/filedetails/?id=305551761](http://steamcommunity.com/sharedfiles/filedetails/?id=305551761)
+`323367654`|Adjusted Large Door {By UncleSte}|[http://steamcommunity.com/sharedfiles/filedetails/?id=323367654](http://steamcommunity.com/sharedfiles/filedetails/?id=323367654)
+`344954925`|CSD Autocannon|[http://steamcommunity.com/sharedfiles/filedetails/?id=344954925](http://steamcommunity.com/sharedfiles/filedetails/?id=344954925)
+`344299482`|CSD Scattercannon|[http://steamcommunity.com/sharedfiles/filedetails/?id=344299482](http://steamcommunity.com/sharedfiles/filedetails/?id=344299482)
+`337637515`|Small ship sniper rifle|[http://steamcommunity.com/sharedfiles/filedetails/?id=337637515](http://steamcommunity.com/sharedfiles/filedetails/?id=337637515)
+`344199068`|Large Ship Railgun|[http://steamcommunity.com/sharedfiles/filedetails/?id=344199068](http://steamcommunity.com/sharedfiles/filedetails/?id=344199068)
+`297356514`|Catwalks_V2.1|[http://steamcommunity.com/sharedfiles/filedetails/?id=297356514](http://steamcommunity.com/sharedfiles/filedetails/?id=297356514)
