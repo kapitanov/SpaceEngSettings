@@ -37,7 +37,7 @@ Mod Id| Mod Name | Mod Uri
 `337539313`|NASA Blocks Mod|[http://steamcommunity.com/sharedfiles/filedetails/?id=337539313](http://steamcommunity.com/sharedfiles/filedetails/?id=337539313)
 `317272401`|No Camera Overlay|[http://steamcommunity.com/sharedfiles/filedetails/?id=317272401](http://steamcommunity.com/sharedfiles/filedetails/?id=317272401)
 
-###New mods from 13.12.2014
+###New mods since 13.12.2014
 Mod Id| Mod Name | Mod Uri
 :------|:----------:|:--------
 `353255179`|Exhumer Machina (Less cheating large drill|[http://steamcommunity.com/sharedfiles/filedetails/?id=353255179](http://steamcommunity.com/sharedfiles/filedetails/?id=353255179)
