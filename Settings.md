@@ -48,3 +48,8 @@ Mod Id| Mod Name | Mod Uri
 `337637515`|Small ship sniper rifle|[http://steamcommunity.com/sharedfiles/filedetails/?id=337637515](http://steamcommunity.com/sharedfiles/filedetails/?id=337637515)
 `344199068`|Large Ship Railgun|[http://steamcommunity.com/sharedfiles/filedetails/?id=344199068](http://steamcommunity.com/sharedfiles/filedetails/?id=344199068)
 `297356514`|Catwalks_V2.1|[http://steamcommunity.com/sharedfiles/filedetails/?id=297356514](http://steamcommunity.com/sharedfiles/filedetails/?id=297356514)
+
+###New mods since 14.12.2014
+Mod Id| Mod Name | Mod Uri
+:------|:----------:|:--------
+`354194728`|CSD Bomb Launcher|[http://steamcommunity.com/workshop/filedetails/?id=354194728](http://steamcommunity.com/workshop/filedetails/?id=354194728)
