@@ -54,7 +54,7 @@ Mod Id| Mod Name | Mod Uri
 :------|:----------:|:--------
 `354194728`|CSD Bomb Launcher|[http://steamcommunity.com/workshop/filedetails/?id=354194728](http://steamcommunity.com/workshop/filedetails/?id=354194728)
 
-###New mods since 21.12.2014
+###New mods since 30.12.2014
 Mod Id| Mod Name | Mod Uri
 :------|:----------:|:--------
-`356783566`|CSD Afterburner|[http://steamcommunity.com/workshop/filedetails/?id=356783566](http://steamcommunity.com/workshop/filedetails/?id=356783566)
+`364731781`|Midspace's exploration ship scan|[http://steamcommunity.com/sharedfiles/filedetails/?id= 364731781](http://steamcommunity.com/sharedfiles/filedetails/?id= 364731781)
