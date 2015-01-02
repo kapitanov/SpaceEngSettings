@@ -59,3 +59,7 @@ Mod Id| Mod Name | Mod Uri
 :------|:----------:|:--------
 `364731781`|Midspace's exploration ship scan|[http://steamcommunity.com/sharedfiles/filedetails/?id= 364731781](http://steamcommunity.com/sharedfiles/filedetails/?id= 364731781)
 `301830183`|Arc Reactor Pack|[http://steamcommunity.com/sharedfiles/filedetails/?id= 301830183](http://steamcommunity.com/sharedfiles/filedetails/?id=301830183)
+###New mods since 02.01.2015
+Mod Id| Mod Name | Mod Uri
+:------|:----------:|:--------
+`321588701`|Automated Inventory Sorting|[http://steamcommunity.com/sharedfiles/filedetails/?id= 321588701](http://steamcommunity.com/sharedfiles/filedetails/?id=321588701)
