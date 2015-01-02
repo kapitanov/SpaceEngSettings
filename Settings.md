@@ -63,3 +63,4 @@ Mod Id| Mod Name | Mod Uri
 Mod Id| Mod Name | Mod Uri
 :------|:----------:|:--------
 `321588701`|Automated Inventory Sorting|[http://steamcommunity.com/sharedfiles/filedetails/?id= 321588701](http://steamcommunity.com/sharedfiles/filedetails/?id=321588701)
+`297532247`|Hammerman vent shafts pack|[http://steamcommunity.com/sharedfiles/filedetails/?id= 297532247](http://steamcommunity.com/sharedfiles/filedetails/?id=297532247)
