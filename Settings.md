@@ -57,10 +57,14 @@ Mod Id| Mod Name | Mod Uri
 ###New mods since 30.12.2014
 Mod Id| Mod Name | Mod Uri
 :------|:----------:|:--------
-`364731781`|Midspace's exploration ship scan|[http://steamcommunity.com/sharedfiles/filedetails/?id= 364731781](http://steamcommunity.com/sharedfiles/filedetails/?id= 364731781)
+`364731781`|Midspace's exploration ship scan|[http://steamcommunity.com/sharedfiles/filedetails/?id=364731781](http://steamcommunity.com/sharedfiles/filedetails/?id= 364731781)
 `301830183`|Arc Reactor Pack|[http://steamcommunity.com/sharedfiles/filedetails/?id= 301830183](http://steamcommunity.com/sharedfiles/filedetails/?id=301830183)
 ###New mods since 02.01.2015
 Mod Id| Mod Name | Mod Uri
 :------|:----------:|:--------
-`321588701`|Automated Inventory Sorting|[http://steamcommunity.com/sharedfiles/filedetails/?id= 321588701](http://steamcommunity.com/sharedfiles/filedetails/?id=321588701)
-`297532247`|Hammerman vent shafts pack|[http://steamcommunity.com/sharedfiles/filedetails/?id= 297532247](http://steamcommunity.com/sharedfiles/filedetails/?id=297532247)
+`321588701`|Automated Inventory Sorting|[http://steamcommunity.com/sharedfiles/filedetails/?id=321588701](http://steamcommunity.com/sharedfiles/filedetails/?id=321588701)
+`297532247`|Hammerman vent shafts pack|[http://steamcommunity.com/sharedfiles/filedetails/?id=297532247](http://steamcommunity.com/sharedfiles/filedetails/?id=297532247)
+###New mods since 03.01.2015
+Mod Id| Mod Name | Mod Uri
+:------|:----------:|:--------
+`330770894`|turret placement fix|[http://steamcommunity.com/sharedfiles/filedetails/?id=330770894](http://steamcommunity.com/sharedfiles/filedetails/?id=330770894)
