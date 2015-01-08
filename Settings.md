@@ -68,3 +68,7 @@ Mod Id| Mod Name | Mod Uri
 Mod Id| Mod Name | Mod Uri
 :------|:----------:|:--------
 `330770894`|turret placement fix|[http://steamcommunity.com/sharedfiles/filedetails/?id=330770894](http://steamcommunity.com/sharedfiles/filedetails/?id=330770894)
+###New mods since 08.01.2015
+Mod Id| Mod Name | Mod Uri
+:------|:----------:|:--------
+`371707480`|[SPX] Faster ships|[http://steamcommunity.com/sharedfiles/filedetails/?id=371707480](http://steamcommunity.com/sharedfiles/filedetails/?id=371707480)
