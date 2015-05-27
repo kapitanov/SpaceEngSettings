@@ -76,3 +76,4 @@ Mod Id| Mod Name | Mod Uri
 Mod Id| Mod Name | Mod Uri
 :------|:----------:|:--------
 `378084827`|Natural Gravity - make asteroids have ship-pulling gravity|[http://steamcommunity.com/sharedfiles/filedetails/?id=378084827](http://steamcommunity.com/sharedfiles/filedetails/?id=378084827)
+`333459096`|Lighter Camera Overlay|[http://steamcommunity.com/sharedfiles/filedetails/?id=333459096](http://steamcommunity.com/sharedfiles/filedetails/?id=333459096)
