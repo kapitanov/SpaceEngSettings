@@ -72,3 +72,7 @@ Mod Id| Mod Name | Mod Uri
 Mod Id| Mod Name | Mod Uri
 :------|:----------:|:--------
 `371707480`|[SPX] Faster ships|[http://steamcommunity.com/sharedfiles/filedetails/?id=371707480](http://steamcommunity.com/sharedfiles/filedetails/?id=371707480)
+###New mods since 27.05.2015
+Mod Id| Mod Name | Mod Uri
+:------|:----------:|:--------
+`378084827`|Natural Gravity - make asteroids have ship-pulling gravity|[http://steamcommunity.com/sharedfiles/filedetails/?id=378084827](http://steamcommunity.com/sharedfiles/filedetails/?id=378084827)
