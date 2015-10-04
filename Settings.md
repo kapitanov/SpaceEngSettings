@@ -77,3 +77,9 @@ Mod Id| Mod Name | Mod Uri
 :------|:----------:|:--------
 `378084827`|Natural Gravity - make asteroids have ship-pulling gravity|[http://steamcommunity.com/sharedfiles/filedetails/?id=378084827](http://steamcommunity.com/sharedfiles/filedetails/?id=378084827)
 `333459096`|Lighter Camera Overlay|[http://steamcommunity.com/sharedfiles/filedetails/?id=333459096](http://steamcommunity.com/sharedfiles/filedetails/?id=333459096)
+
+###New mods since 04.10.2015
+Mod Id| Mod Name | Mod Uri
+:------|:----------:|:--------
+`514062285`|Build Info - details about the block you're placing|[http://steamcommunity.com/sharedfiles/filedetails/?id=514062285](http://steamcommunity.com/sharedfiles/filedetails/?id=514062285)
+`517675282`|Projector Preview - miniature blueprint display|[http://steamcommunity.com/sharedfiles/filedetails/?id=517675282](http://steamcommunity.com/sharedfiles/filedetails/?id=517675282)
