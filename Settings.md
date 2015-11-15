@@ -83,3 +83,7 @@ Mod Id| Mod Name | Mod Uri
 :------|:----------:|:--------
 `514062285`|Build Info - details about the block you're placing|[http://steamcommunity.com/sharedfiles/filedetails/?id=514062285](http://steamcommunity.com/sharedfiles/filedetails/?id=514062285)
 `517675282`|Projector Preview - miniature blueprint display|[http://steamcommunity.com/sharedfiles/filedetails/?id=517675282](http://steamcommunity.com/sharedfiles/filedetails/?id=517675282)
+###New mods since 15.11.2015
+Mod Id| Mod Name | Mod Uri
+:------|:----------:|:--------
+`450674005`|Camera Overlay Tweak|[http://steamcommunity.com/sharedfiles/filedetails/?id=450674005](http://steamcommunity.com/sharedfiles/filedetails/?id=450674005)
