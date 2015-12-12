@@ -87,3 +87,8 @@ Mod Id| Mod Name | Mod Uri
 Mod Id| Mod Name | Mod Uri
 :------|:----------:|:--------
 `450674005`|Camera Overlay Tweak|[http://steamcommunity.com/sharedfiles/filedetails/?id=450674005](http://steamcommunity.com/sharedfiles/filedetails/?id=450674005)
+###New mods since 12.12.2015
+Mod Id| Mod Name | Mod Uri
+:------|:----------:|:--------
+`570950770`|Improved Thrusters - Reverse thrust, spinning fans, better jet flame|[http://steamcommunity.com/sharedfiles/filedetails/?id=570950770](http://steamcommunity.com/sharedfiles/filedetails/?id=570950770)
+`473571246`|Aerodynamics - Wing blocks for planet atmosphere|[http://steamcommunity.com/sharedfiles/filedetails/?id=473571246](http://steamcommunity.com/sharedfiles/filedetails/?id=473571246)
