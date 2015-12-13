@@ -9,3 +9,4 @@ Mod Id| Mod Name | Mod Uri
 `514062285`|Build Info - details about the block you're placing|[http://steamcommunity.com/sharedfiles/filedetails/?id=514062285](http://steamcommunity.com/sharedfiles/filedetails/?id=514062285)
 `570950770`|Improved Thrusters - Reverse thrust, spinning fans, better jet flame|[http://steamcommunity.com/sharedfiles/filedetails/?id=570950770](http://steamcommunity.com/sharedfiles/filedetails/?id=570950770)
 `473571246`|Aerodynamics - Wing blocks for planet atmosphere|[http://steamcommunity.com/sharedfiles/filedetails/?id=473571246](http://steamcommunity.com/sharedfiles/filedetails/?id=473571246)
+`572497877`|Atmospheric Drag|[http://steamcommunity.com/sharedfiles/filedetails/?id=572497877](http://steamcommunity.com/sharedfiles/filedetails/?id=572497877)
