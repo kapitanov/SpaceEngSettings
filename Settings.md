@@ -9,4 +9,5 @@ Mod Id| Mod Name | Mod Uri
 `514062285`|Build Info - details about the block you're placing|[http://steamcommunity.com/sharedfiles/filedetails/?id=514062285](http://steamcommunity.com/sharedfiles/filedetails/?id=514062285)
 `473571246`|Aerodynamics - Wing blocks for planet atmosphere|[http://steamcommunity.com/sharedfiles/filedetails/?id=473571246](http://steamcommunity.com/sharedfiles/filedetails/?id=473571246)
 `305329302`|Small Ship Mega Mod Pack|[http://steamcommunity.com/sharedfiles/filedetails/?id=305329302](http://steamcommunity.com/sharedfiles/filedetails/?id=305329302)
-`302238675`|More Powerful Spotlight|[http://steamcommunity.com/sharedfiles/filedetails/?id=302238675](http://steamcommunity.com/sharedfiles/filedetails/?id=302238675)
+`600062079`|[DX11] Ladder - climbable|[http://steamcommunity.com/sharedfiles/filedetails/?id=600062079](http://steamcommunity.com/sharedfiles/filedetails/?id=600062079)
+`299377073`|Fix: Spotlight glare removal|[http://steamcommunity.com/sharedfiles/filedetails/?id=299377073](http://steamcommunity.com/sharedfiles/filedetails/?id=299377073)
