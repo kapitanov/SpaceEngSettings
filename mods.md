@@ -93,3 +93,8 @@ Mod Id| Mod Name | Mod Uri
 `570950770`|Improved Thrusters - Reverse thrust, spinning fans, better jet flame|[http://steamcommunity.com/sharedfiles/filedetails/?id=570950770](http://steamcommunity.com/sharedfiles/filedetails/?id=570950770)
 `473571246`|Aerodynamics - Wing blocks for planet atmosphere|[http://steamcommunity.com/sharedfiles/filedetails/?id=473571246](http://steamcommunity.com/sharedfiles/filedetails/?id=473571246)
 `572497877`|Atmospheric Drag|[http://steamcommunity.com/sharedfiles/filedetails/?id=572497877](http://steamcommunity.com/sharedfiles/filedetails/?id=572497877)
+###New mods since 18.01.2016
+Mod Id| Mod Name | Mod Uri
+:------|:----------:|:--------
+`600062079`|[DX11] Ladder - climbable|[http://steamcommunity.com/sharedfiles/filedetails/?id=600062079](http://steamcommunity.com/sharedfiles/filedetails/?id=600062079)
+`299377073`|Fix: Spotlight glare removal|[http://steamcommunity.com/sharedfiles/filedetails/?id=299377073](http://steamcommunity.com/sharedfiles/filedetails/?id=299377073)
